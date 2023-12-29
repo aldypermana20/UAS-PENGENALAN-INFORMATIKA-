@@ -16,23 +16,22 @@ https://youtu.be/XUi2aMvjJbc
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
+https://drive.google.com/drive/folders/1DbuoO_R7k-SPLYJb8kehcnVNPKS1cSUQ?usp=drive_link
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+https://drive.google.com/drive/folders/1xZjN9l23SR11bQHqSZpV2A_GL-xU-ZsJ?usp=drive_link
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/SWQOPPG2L1o
-
-Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 https://youtu.be/rk7tWykAnYc?si=lCe4effOHkWBcFBh
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+
+https://drive.google.com/drive/folders/1rxtciraFX1hXqTJGbbTCyvGF14-HSmgw?usp=drive_link
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -40,13 +39,10 @@ https://youtu.be/rk7tWykAnYc?si=lCe4effOHkWBcFBh
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+https://drive.google.com/drive/folders/1_MevZzsAMuTLJFC_TDA51eS8ylnw6iAi?usp=drive_link
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -58,20 +54,18 @@ https://informatikasepakbola.wordpress.com/apa-itu-url-pengertian-jenis-dan-fung
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+https://drive.google.com/drive/folders/17Z5iLS8C8m-I8UdVyR0niBnmmtN8UitH?usp=drive_link
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+
+https://drive.google.com/drive/folders/1RYU2yZXx0KPxSxg5uYOPZa_HokJTI3R7?usp=drive_link
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 https://youtu.be/pFTSgr-DBMU
@@ -85,11 +79,11 @@ https://youtu.be/pFTSgr-DBMU
 https://youtu.be/RZVgkmqDwgw
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+https://drive.google.com/drive/folders/1lMvRUfcxZ3TYLL8jTzM1NKmca6025mrF?usp=drive_link
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+
 https://youtu.be/8ZveELp452w
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
@@ -113,34 +107,49 @@ https://youtu.be/gDycha1Zsbg?si=5ahbykAjI7Oj_ZFs
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+https://drive.google.com/drive/folders/1fucO-lPkbU2YBtSDU0tljVdvYZK0WHGc?usp=drive_link
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+https://drive.google.com/drive/folders/1xU_ncwwKpviB1e75hnvIKN5Hj8wh090n?usp=drive_link
+
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
+https://drive.google.com/drive/folders/1_DD1xgCDbF2G86CEcIju9rtIZuJM5wDE?usp=drive_link
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+
 https://youtu.be/CG2oVHpeYf0
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+
 https://youtu.be/WrEU5-S7nt8
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+
 https://youtu.be/Hnudn8OebYo
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+
+https://drive.google.com/drive/folders/1v6aot-jENPLuu4RTwniA-3H7KOM8AK7T?usp=drive_link
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 https://youtu.be/zdd-9k9LyfQ?si=xZHu7rEUHbnZ0cEI
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+https://drive.google.com/drive/folders/1ELbRAlmmELn6KeRwjwA77d844YP9J5gx?usp=drive_link
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+https://drive.google.com/drive/folders/1lxnNCh7SAVUnkcWrpcLK_HlX6CNIFdJ2?usp=drive_link
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 https://youtu.be/ONinTjLFzcc
@@ -149,6 +158,8 @@ https://youtu.be/ONinTjLFzcc
 https://youtu.be/BER_t5RQ39o
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
+https://drive.google.com/drive/folders/1ELbRAlmmELn6KeRwjwA77d844YP9J5gx?usp=drive_link
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://youtu.be/cwkVPleYG7Q
