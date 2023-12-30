@@ -46,7 +46,7 @@ https://drive.google.com/drive/folders/1_MevZzsAMuTLJFC_TDA51eS8ylnw6iAi?usp=dri
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-
+https://informatikasepakbola.wordpress.com/apa-itu-web-browser-pengertian-fungsi-cara-kerja-dan-jenisnya/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
