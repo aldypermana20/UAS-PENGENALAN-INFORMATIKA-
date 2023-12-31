@@ -72,8 +72,11 @@ https://youtu.be/pFTSgr-DBMU
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+https://youtu.be/pFTSgr-DBMU
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
+https://informatikasepakbola.wordpress.com/mencoba-http-request-dan-web-api-dengan-hoppscotch-postman/
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 https://youtu.be/RZVgkmqDwgw
@@ -120,7 +123,11 @@ https://drive.google.com/drive/folders/1_DD1xgCDbF2G86CEcIju9rtIZuJM5wDE?usp=dri
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+https://informatikasepakbola.wordpress.com/memproses-file-csv-menggunakan-google-colab/
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
+https://informatikasepakbola.wordpress.com/memproses-file-csv-menggunakan-google-colab/
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
