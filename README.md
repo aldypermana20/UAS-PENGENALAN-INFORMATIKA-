@@ -103,8 +103,9 @@ https://youtu.be/8ZveELp452w
 https://informatikasepakbola.wordpress.com/picsart-aplikasi-editing-foto-dan-desain-populer-dengan-fungsi-multifungsi/
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
-
+https://youtu.be/-EYI9ZkndE4?si=FpIzm4nrAjERti6r
+https://drive.google.com/drive/folders/1qiF3AqXCLyWozKze3L8l5x80SIWLwDKV?usp=sharing
+https://informatikasepakbola.wordpress.com/picsart-aplikasi-editing-foto-dan-desain-populer-dengan-fungsi-multifungsi/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
