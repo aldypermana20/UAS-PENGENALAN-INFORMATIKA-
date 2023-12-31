@@ -196,5 +196,7 @@ https://youtu.be/cwkVPleYG7Q
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+https://drive.google.com/drive/folders/1Y9oeZLP8KQIIEwwpEqn2EyBgskKkBcE_?usp=sharing
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 https://youtu.be/-QfJAe6vYqk
