@@ -119,9 +119,15 @@ https://youtu.be/gDycha1Zsbg?si=5ahbykAjI7Oj_ZFs
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+https://informatikasepakbola.wordpress.com/untuk-membangun-model-machine-learning-menggunakan-google-colab-tts-speechrecognition-dan-hugging-face/
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+https://informatikasepakbola.wordpress.com/mencoba-data-visualization-dengan-tools-dan-code/
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+https://informatikasepakbola.wordpress.com/mencoba-data-visualization-dengan-tools-dan-code/
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://drive.google.com/drive/folders/1fucO-lPkbU2YBtSDU0tljVdvYZK0WHGc?usp=drive_link
