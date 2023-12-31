@@ -12,12 +12,17 @@ https://youtu.be/XUi2aMvjJbc
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+https://colab.research.google.com/drive/1XGUsDpBX6eNt1X0yEQpMZUj-cX_jP3b1?usp=sharing
+https://informatikasepakbola.wordpress.com/mengktifkan-dan-mencoba-google-colab/
+
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 https://drive.google.com/drive/folders/1DbuoO_R7k-SPLYJb8kehcnVNPKS1cSUQ?usp=drive_link
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+https://informatikasepakbola.wordpress.com/linux-terminal-menggunakan-google-colab/
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -35,7 +40,9 @@ https://drive.google.com/drive/folders/1rxtciraFX1hXqTJGbbTCyvGF14-HSmgw?usp=dri
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -43,6 +50,8 @@ https://drive.google.com/drive/folders/1_MevZzsAMuTLJFC_TDA51eS8ylnw6iAi?usp=dri
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+https://drive.google.com/drive/folders/1_MevZzsAMuTLJFC_TDA51eS8ylnw6iAi?usp=drive_link
+https://informatikasepakbola.wordpress.com/eksplorasi-dan-query-database-menggunakan-database-explorer-progress-sql/
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -61,15 +70,15 @@ https://drive.google.com/drive/folders/17Z5iLS8C8m-I8UdVyR0niBnmmtN8UitH?usp=dri
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-
+https://informatikasepakbola.wordpress.com/penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 https://drive.google.com/drive/folders/1RYU2yZXx0KPxSxg5uYOPZa_HokJTI3R7?usp=drive_link
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-https://youtu.be/pFTSgr-DBMU
 
+https://youtu.be/pFTSgr-DBMU
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 https://youtu.be/pFTSgr-DBMU
@@ -91,7 +100,11 @@ https://youtu.be/8ZveELp452w
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+https://informatikasepakbola.wordpress.com/picsart-aplikasi-editing-foto-dan-desain-populer-dengan-fungsi-multifungsi/
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
