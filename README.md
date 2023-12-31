@@ -44,6 +44,7 @@ https://youtu.be/g2sz__gUv7w
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+https://youtu.be/gJ21Kjy8qio?si=Ha1KeZ5NeBrm68KE
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
