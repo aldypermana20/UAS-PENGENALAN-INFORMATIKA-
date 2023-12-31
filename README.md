@@ -40,6 +40,7 @@ https://drive.google.com/drive/folders/1rxtciraFX1hXqTJGbbTCyvGF14-HSmgw?usp=dri
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+https://youtu.be/g2sz__gUv7w
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
