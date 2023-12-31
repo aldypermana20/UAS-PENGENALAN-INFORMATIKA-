@@ -111,6 +111,8 @@ https://informatikasepakbola.wordpress.com/picsart-aplikasi-editing-foto-dan-des
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+https://colab.research.google.com/drive/10iZLXYIB2CBcMtGpaMoErvNopcxBngdB?usp=sharing
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 https://youtu.be/HW9OWzLgcY8
 
