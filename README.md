@@ -205,4 +205,5 @@ https://drive.google.com/drive/folders/1Y9oeZLP8KQIIEwwpEqn2EyBgskKkBcE_?usp=sha
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 https://youtu.be/-QfJAe6vYqk
+
 https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
