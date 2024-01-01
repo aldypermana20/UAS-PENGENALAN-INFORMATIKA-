@@ -69,6 +69,7 @@ https://drive.google.com/drive/folders/17Z5iLS8C8m-I8UdVyR0niBnmmtN8UitH?usp=dri
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
+https://informatikasepakbola.wordpress.com/mencoba-pembuatan-halaman-web-menggunakan-html-css-dan-javascript/
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -110,7 +111,8 @@ https://drive.google.com/drive/folders/1qiF3AqXCLyWozKze3L8l5x80SIWLwDKV?usp=sha
 https://informatikasepakbola.wordpress.com/picsart-aplikasi-editing-foto-dan-desain-populer-dengan-fungsi-multifungsi/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
+https://informatikasepakbola.wordpress.com/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo-di-scratch/
+Models must have 12 sections, this had 1 (see here for more information)
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 https://colab.research.google.com/drive/10iZLXYIB2CBcMtGpaMoErvNopcxBngdB?usp=sharing
