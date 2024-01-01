@@ -163,6 +163,8 @@ https://youtu.be/WrEU5-S7nt8
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+https://youtu.be/w7U66bG8CZc
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 https://youtu.be/Hnudn8OebYo
